@@ -1,4 +1,5 @@
 # Building a Stronger Foundation: An AI-based App for Early Childhood Development
+# <img src="/app.png" alt="app" width="500"/>
 
 Final project for the Building AI course
 
@@ -38,12 +39,6 @@ The app is used by parents, guardians, and child educators at home or in prescho
 * Recommendations for routines (sleep, meals, play, screen time, etc.) based on the child’s age and needs.
 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
